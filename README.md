@@ -1,4 +1,4 @@
-### Envato Tuts+ Quick Tips: An Introduction to SpriteKit: Fundamentals
+### Envato Tuts+ Tutorial: An Introduction to SpriteKit: Fundamentals
 
 #### Instructor: Davis Allie
 
